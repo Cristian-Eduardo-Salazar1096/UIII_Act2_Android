@@ -1,16 +1,5 @@
-# profile_ui
+## Actividad 2 Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/eb5063c7-4fd2-42a4-83df-7f6941cd37b4)
+![image](https://github.com/user-attachments/assets/5da1bb8e-388e-4f95-ac87-a26bcc27279c)
+![image](https://github.com/user-attachments/assets/b54a8bd7-2a46-459f-b7b3-e7f8e2551d04)
